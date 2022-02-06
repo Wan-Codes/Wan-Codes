@@ -1,8 +1,7 @@
 <p align="center">
  <img src="header.svg" />
  </p>
-
-### Oiii! Eu sou wan-codes 👋
+ 
 
 
 <div align="center">
